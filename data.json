@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "It is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+    },
+    {
+        "id": 2,
+        "title": "App Development",
+        "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+        "description": "Apps are some of the profitable entities out there right now, there are no second thoughts on that. In just four years i.e. from 2016 to 2020, global mobile app revenue is slated to increase by a whopping margin of 200%, and touch $188.9 billion"
+    },
+    {
+        "id": 3,
+        "title": "Software Development",
+        "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "It is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components."
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing",
+        "image": "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Digital marketing, also known as online marketing, refers to advertising delivered through digital channels to promote brands and connect potential customers using the internet and other forms of digital communication such as: Search engines."
+    },
+    {
+        "id": 5,
+        "title": "Graphic Designer",
+        "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "It is an applied art and profession that uses text and graphics to communicate visually. Graphic design is an interdisciplinary branch of design and a branch of the fine arts."
+    },
+    {
+        "id": 6,
+        "title": "Ashu Codefest",
+        "image": "https://thapaonlineclass.com/images/thapa.png",
+        "description": "It's a monthly event where we will give a project and you have to submit your project. Codefest will be mostly related to frontend projects and occasionally fullstack project."
+    }
+]
